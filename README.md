@@ -30,10 +30,15 @@ Some text that Alan want to put
 - Authentication with Firebase, Facebook and Twitter
 
 # Android Archtecture
-MVVM with Multi-modules
+Built using:
+- Model-View-ViewModel (MVVM) archtecture (using [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) library for View <- ViewModel);
+- Dynamic fueature modules/multi-modules. Prepared for on-demand features or instant-apps, but not ready.
 
 # Libraries, plugins and techniques
 - Navigation: [Navigation Archetecture Component](https://developer.android.com/guide/navigation)
 - Dependency injection: [Insert Koin](https://insert-koin.io/)
 - Animations: [Lottie](https://airbnb.io/lottie/#/), (Property Animation)[https://developer.android.com/guide/topics/graphics/prop-animation] and "Animation Utils"
+- Async operations: [Coroutines](https://developer.android.com/kotlin/coroutines)
+- Local database: [Room](https://developer.android.com/training/data-storage/room)
+- Push notifictions: [One signal](https://onesignal.com/)
 - HTTP requests: [Retrofit](https://square.github.io/retrofit/)

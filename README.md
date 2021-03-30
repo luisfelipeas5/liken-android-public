@@ -30,6 +30,7 @@ Some text that Alan want to put
 - Profile: user can see favorite list and some personal data of some user in the system;
 
 # System Archtecture
+![alt text](https://github.com/luisfelipeas5/liken-android-public/blob/main/system_arch.jpg?raw=true)
 - Mobile app: connect all parts in a beatiful UI;
 - [The MovieDb Api](https://developers.themoviedb.org/3/getting-started/introduction): provide the content database;
 - [Firestore of Firebase](https://firebase.google.com/docs/firestore): store recommendations, user data, watchlist, upvotes and comments;

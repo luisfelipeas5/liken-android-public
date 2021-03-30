@@ -9,12 +9,12 @@ Liken is a way to recommend (user to user) and get recommendations about movies 
 ## Alan Kenji: creator and UX/UI designer
 - [linkedin](https://www.linkedin.com/in/alan-yamasaki/)
 - [behance](https://www.behance.net/alankenjiy)
-- email: alankenjiy@gmail.com
+- alankenjiy@gmail.com
 
 ## Luis Felipe: developer
 - [linkedin](https://www.linkedin.com/in/luis-felipe-de-almeida-da-silva-42aa6016b/)
-- email: luisfelipeas5@gmail.com
-- github: [luisfelipeas5](https://github.com/luisfelipeas5)
+- luisfelipeas5@gmail.com
+- [github](https://github.com/luisfelipeas5)
 
 # Preview
 Short video and picture of the system

@@ -7,6 +7,9 @@ Liken is a way to recommend (user to user) and get recommendations about movies 
 
 # Creators of the Android version
 ## Alan Kenji: creator and UX/UI designer
+- [linkedin](https://www.linkedin.com/in/alan-yamasaki/)
+- [behance](https://www.behance.net/alankenjiy)
+- email: alankenjiy@gmail.com
 
 ## Luis Felipe: developer
 - [linkedin](https://www.linkedin.com/in/luis-felipe-de-almeida-da-silva-42aa6016b/)

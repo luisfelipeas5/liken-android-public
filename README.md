@@ -6,8 +6,7 @@ The "presentation" repository of Liken by KaosClub
 Liken is a way to recommend (user to user) and get recommendations about movies and tv series. Users can create a recommendation of a content based another content. For example: I recommend "Zodiac" for that users that liked "Memories of Murder".
 
 # Creators of the Android version
-- Alan Kenji: creator and designer
-Picture, linkedin, email and ?
+## Alan Kenji: creator and UX/UI designer
 
 ## Luis Felipe: developer
 - [linkedin](https://www.linkedin.com/in/luis-felipe-de-almeida-da-silva-42aa6016b/)
@@ -49,3 +48,6 @@ Built using:
 - Local database: [Room](https://developer.android.com/training/data-storage/room)
 - Push notifictions: [One signal](https://onesignal.com/)
 - HTTP requests: [Retrofit](https://square.github.io/retrofit/)
+
+# Curiosities
+- the app born with Model-View-Presenter (MVP) archtecture and multiple activities based, using explicit intents by full name of the activity

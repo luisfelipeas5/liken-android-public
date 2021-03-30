@@ -44,7 +44,7 @@ Built using:
 # Libraries, plugins and techniques
 - Navigation: [Navigation Archetecture Component](https://developer.android.com/guide/navigation)
 - Dependency injection: [Insert Koin](https://insert-koin.io/)
-- Animations: [Lottie](https://airbnb.io/lottie/#/), (Property Animation)[https://developer.android.com/guide/topics/graphics/prop-animation] and "Animation Utils"
+- Animations: [Lottie](https://airbnb.io/lottie/#/), [Property Animation](https://developer.android.com/guide/topics/graphics/prop-animation) and "Animation Utils"
 - Async operations: [Coroutines](https://developer.android.com/kotlin/coroutines)
 - Local database: [Room](https://developer.android.com/training/data-storage/room)
 - Push notifictions: [One signal](https://onesignal.com/)

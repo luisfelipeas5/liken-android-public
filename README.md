@@ -3,7 +3,7 @@ The "presentation" repository of Liken by KaosClub
 
 [App on Google Play](https://play.google.com/store/apps/details?id=br.com.kaosclub.liken)
 
-Liken is a way to recommend (user to user) and get recommendations about movies and tv series. Users can create a recommendation of a content based another content. For example: I recommend "Zodiac" for that users that liked "Memories of Murder".
+Liken is a way to recommend movies and tv shows (user to user). It is a social network where users can create a recommendation of a content based on another content. For example: I recommend "Zodiac" for that users that liked "Memories of Murder".
 
 # Creators of the Android version
 ## Alan Kenji: creator and UX/UI designer

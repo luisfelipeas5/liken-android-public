@@ -17,10 +17,7 @@ Liken is a way to recommend (user to user) and get recommendations about movies 
 - [github](https://github.com/luisfelipeas5)
 
 # Preview
-Short video and picture of the system
-
-# Design
-Some text that Alan want to put
+![alt text](https://github.com/luisfelipeas5/liken-android-public/blob/main/design_presentation.jpg?raw=true)
 
 # Main features
 - Recommendation: shows two contents liken, a text justifying why user created this recommendation and possible comments done by others users;
